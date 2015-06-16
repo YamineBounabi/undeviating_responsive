@@ -220,7 +220,7 @@ span{
 	margin-bottom:80px;
 } 
 
-@media all and (min-width: 200px) and (max-width: 695px) {
+@media screen and (min-width: 200px) and (max-width: 695px) {
  section .section1 ul li, article .article1 ul li,img,header ul li, div .social .contact {
   display:block;
   width:100%;
@@ -270,7 +270,7 @@ h3,h4{
 }
 
 
-@media all and (min-width: 695px) and (max-width: 1060px) {
+@media screen and (min-width: 695px) and (max-width: 1060px) {
  
   
 img{
