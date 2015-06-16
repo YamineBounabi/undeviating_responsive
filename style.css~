@@ -1,0 +1,223 @@
+.container{
+	width:94%;
+	margin:auto;
+}
+
+p{
+  font-family:'Questrial';
+  font-size: 16px;
+
+}
+
+header{
+  text-align:center;
+  background-color: #2056ac;
+}
+
+header h1{
+	font-size:56px;
+	font-weight:bold;
+	font-family:'Questrial';
+	color:white;
+	padding-top: 20px;
+	padding-bottom: 88px;
+
+}
+
+
+header ul li{
+	display:inline-block;
+	font-size:14px;
+	font-family:'Questrial';
+	width:120px;
+	height: 60px;
+	line-height: 60px;
+	font-weight: bold;
+}
+
+header ul li:hover{
+	background-color:#fff;
+	color:#2056ac;
+	border-top-left-radius:7px;
+	border-top-right-radius:7px; 
+}
+
+header a{
+	text-decoration: none;
+	color:white;
+}
+
+header ul li:hover a{
+  color:#2056ac;
+}
+
+main{
+	text-align:center;
+	margin-top: 80px;
+}
+
+main p{
+  color:#676767;
+  padding: 0px 5.3%;
+}
+
+h2{
+	font-family: 'Questrial';
+	font-size: 45px;
+	font-weight:bold;
+	color:#404040;
+  margin-top:100px;
+  margin-bottom:65px;
+}
+
+img{
+  width:100%;
+}
+
+.fa.fa-cog {
+  margin-top: 130px;
+  font-size: 48px;
+  color: white;
+  fzont-size: 48px;
+}
+  
+h3{
+	font-size:26px;
+	font-weight:bold;
+	font-family:'Questrial';
+	color:#404040;
+	margin-bottom: 60px;
+}
+
+section{
+	border-top: 1px solid #cbcbcb;
+	border-bottom: 1px solid #cbcbcb;
+	margin-top: 100px;
+}
+
+.section1{
+	display:inline-block;
+	vertical-align:top;
+
+	width:33%;
+	text-align:center;
+	padding-top: 90px;
+	color:#976f6f;
+}
+
+
+section p, article p, main p{
+  line-height: 1.5em;
+}
+
+section p:last-child{
+  padding-bottom:20px;
+}
+
+section a{
+	background:#64ABD1;
+	font-family: 'Questrial';
+	color:white;
+	display:block;
+	margin: 55px auto 80px;
+	width:155px;
+	line-height:58px;
+	height:55px;
+
+}
+
+
+
+h4{
+  font-size:16px;
+	font-weight:bold;
+	font-family: 'Questrial';
+	color:#666666;
+	margin-bottom: 27px;
+	margin-top: 80px;
+}
+
+.article1{
+	display:inline-block;
+	vertical-align:top;
+	text-align:center;
+	color:#976f6f;
+	width:23.75%;
+}
+
+
+
+article a{
+	background:#64ABD1;
+	font-family: 'Questrial';
+	color:white;
+	display:block;
+	margin: 55px auto 80px;
+	width:180px;
+	line-height:58px;
+	height:55px;
+}
+
+
+.contenu-social{
+	background:#e3f0f7;
+	border-bottom:20px solid #3162b1; 
+}
+.social{
+	width:94%;
+	margin:auto;
+}
+
+.contact{
+	background:#e3f0f7;
+	width:33%;
+	text-align:center;
+	display:inline-block;
+}
+
+.contact p{
+	font-size:14px;
+	color:#5c6164;
+  padding: 0px 160px;
+}
+
+.contact p:last-child{
+ 	margin-bottom:85px;
+}
+
+
+
+.fa.fa-map-marker,.fa.fa-phone,.fa.fa-envelope-o{
+	color:#5b6063;
+	font-size:50px;
+	padding-top:85px;
+	padding-bottom:55px;
+}
+
+.icones{
+	text-align:center;
+	background:#2056ac;
+}
+
+.icones p{
+	font-family: 'Questrial';
+	font-size:14px;
+	color:#96b5cd;
+	padding-top: 85px;
+	padding-bottom:50px;
+}
+
+span{
+  color:white;
+}
+
+.icones i{
+	color:white;
+	background-color:#4c93b9;
+	height: 40px;
+	width: 40px;
+	font-size: 25px;
+	line-height: 40px;
+	margin-bottom:80px;
+} 
+
