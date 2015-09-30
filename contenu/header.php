@@ -2,7 +2,7 @@
               
       <i class="fa fa-cog"></i> 
       <h1>Undeviating</h1>
-      <img src="images/burger.png" id="togglejs">  
+      <img src="images/burger.png" id="togglejs" value="right">  
       <ul id="menuburger"> 
         <li><a href="index.html">HOMEPAGE</a></li>
         <li><a href="index.html">OUR CLIENTS</a></li>
